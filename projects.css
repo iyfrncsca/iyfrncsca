@@ -1,0 +1,17 @@
+
+
+
+.projects {
+    min-height: 50vh;
+    margin: auto;
+    max-width: 1000px;
+    padding-top: 0;
+}
+
+.project {
+    margin-bottom: 1.5em;
+    padding-bottom: 1em;
+    border-bottom: 1px solid #b0c4b1;
+    padding-left: 8.5em;
+    margin: auto;
+}
